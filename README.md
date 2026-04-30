@@ -31,18 +31,14 @@ Titulaire d'un Master Informatique (Réseaux — Sorbonne). Expérience en super
 
 - LAN, WIFI, TCP/IP, DNS, IPv4/IPv6, Routage
 
-### Systèmes
-- Windows, Linux (Red Hat, Debian)
-
 ### Outils & Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- Grafana, Wireshark, Git, MySQL, Python, Bash, PowerShell, PHP
 
 ---
 
